@@ -6,4 +6,3 @@ rm -rf build main.cpp"
 )
 
 import main
-
